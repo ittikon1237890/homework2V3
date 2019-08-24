@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">homework2V3</string>
+    <string name="loginAccount">Login  To Your Account</string>
+    <string name="email">Email</string>
+    <string name="Pass">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Don\'t have an account? Register</string>
+
+
+</resources>
