@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">homework2V3</string>
-    <string name="Pass">รหัสผ่าน</string>
-    <string name="email">อีเมล</string>
+    <string name="Pass">อีเมล</string>
+    <string name="email">รหัสผ่าน</string>
     <string name="login">ลงชื่อเข้าใช้</string>
     <string name="loginAccount">ลงชื่อเข้าสู่บัญชีของคุณ</string>
     <string name="register">ยังไม่มีบัญชีผู้ใช้งาน? สมัครเลย</string>
+    <string name="login_Success">เข้าสู่ระบบสำเร็จ</string>
+    <string name="login_fail">อีเมล หรือ รหัสผ่านไม่ถูกต้อง</string>
 </resources>
